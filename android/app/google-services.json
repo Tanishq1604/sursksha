@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "903042814179",
+    "project_id": "tanishq-d54f8",
+    "storage_bucket": "tanishq-d54f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903042814179:android:9a57ae42daf41e20ba75d6",
+        "android_client_info": {
+          "package_name": "com.fall.ap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCc7joSmeAcNLZClL4q0VUbUNOah16kYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
